@@ -7,10 +7,6 @@ I am a passionate developer focused on building efficient software, exploring mo
   <a href="https://www.linkedin.com/in/sovan-pech-ab45a3378" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://sovan-pech.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 ---
