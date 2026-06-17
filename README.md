@@ -3,6 +3,16 @@
 ### Software Engineering & Tech Explorer
 I am a passionate developer focused on building efficient software, exploring modern web systems, and solving complex problems. I love diving into how code behaves, optimizing performance, and bringing impactful ideas to life.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/sovan-pech-ab45a3378" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://sovan-pech.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ### Tech Stack & Tools <img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="30" />
